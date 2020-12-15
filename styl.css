@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #black;
+    background-color: rgb(213, 252, 255);
+}
+
+table {
+    border: 0 px solid deeppink;
+}
+
+td {
+    border: 1px solid deeppink;
+}
+
+h1 {
+    color: darkorchid;
+}
+
+h1.glowna {
+    color: deeppink;
+}
+
+/* unvisited link */
+a:link {
+  color: darkblue;
+  font-weight: bold; /* pogrubienie */
+  text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+  color: blue;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+}
